@@ -30,10 +30,63 @@ Requirements
 
 Your grade in class will be determined as follows.
 
-| Activities | Percentages |
-| --- | --- |
-| In-class participation | 5% |
-| Mid-term examination | 20% |
-| 3 write-ups and presentations of team experiments | 45% |
-| 1 write-up of an independently conducted experiment | 30% |
-| Satisfaction of learning | priceless
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class participation
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term examination
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 write-ups and presentations of team experiments
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1 write-up of an independently conducted experiment
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Satisfaction of learning
+{{< tdclose >}}
+{{< tdopen >}}
+priceless
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
